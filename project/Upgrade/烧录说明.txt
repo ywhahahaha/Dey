@@ -1,0 +1,2 @@
+I03M_Vx.x.x.hex 为生产烧录文件 可以通过jlink或者stlink烧录
+I03M_Vx.x.x.bin 为现场升级文件 通过以太网调试工具升级

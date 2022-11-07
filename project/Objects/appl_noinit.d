@@ -1,0 +1,9 @@
+.\objects\appl_noinit.o: ..\Application\appl_noinit.c
+.\objects\appl_noinit.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\appl_noinit.o: ..\Application\typedef.h
+.\objects\appl_noinit.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\appl_noinit.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\appl_noinit.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\appl_noinit.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\appl_noinit.o: ..\Application\project_config.h
+.\objects\appl_noinit.o: ..\Modules\crc_check.h
